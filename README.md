@@ -2,86 +2,64 @@
 
 Software Engineering undergraduate passionate about backend systems, database architecture, and Retrieval-Augmented Generation (RAG) applications.
 
----
-
 ## 📬 Contact
+📧 montilhamarianna@gmail.com  
+💼 https://www.linkedin.com/in/mariana-almeida-793344277/
 
-- 📧 Email: montilhamarianna@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/mariana-almeida-793344277/  
----
 
 ## 🎓 Education
-
-**Software Engineering Undergraduate (5th semester)**   
-Instituto Federal de São Paulo – São Carlos Campus
+Software Engineering Undergraduate (5th semester)  
+Instituto Federal de São Paulo – São Carlos Campus  
 
 Currently working as a Full Stack Intern.
 
----
-##  Interests
+
+## 🚀 Interests
 - Backend Development  
-- Database Systems & Data Modeling
-- Continuous learning in software engineering
-  
----
+- Database Systems & Data Modeling  
+- Generative AI Applications  
+- Continuous learning in Software Engineering  
+
 
 ## 🧠 Technical Skills
-
-### Backend Development
+### Backend
 - Java  
-- C# (ASP.NET MVC)  
-
-### Web Development
+- C# (ASP.NET MVC)
+### Web
 - React  
 - TypeScript  
 - JavaScript  
 - HTML  
 - CSS  
-
-### Programming Languages
+### Programming
 - Python  
 - C  
-
 ### Databases
-- Relational Databases: PostgreSQL, Oracle  
-- NoSQL Databases: MongoDB, Cassandra, Redis  
-
+- Relational Databases: PostgreSQL, Oracle
+- NoSQL Databases: MongoDB, Cassandra, Redis
 ## 🌎 Languages
-
 - Portuguese — Native  
-- English — Intermediate
-  
----
+- English — Intermediate  
+
 
 ## 🤖 Highlighted Projects
 
 ### 🧠 Generative AI Virtual Assistant  
-🔗 https://github.com/montillha/assistente-virtual-PPC-BES  
+🔗 https://github.com/montillha/assistente-virtual-PPC-BES 
 
-Virtual assistant built using a Retrieval-Augmented Generation (RAG) architecture for querying academic documents.
+RAG-based virtual assistant for querying academic documents.
 
-**Technical Implementation**
-- Implemented PDF ingestion and document preprocessing pipeline  
-- Applied document chunking using RecursiveCharacterTextSplitter  
-- Generated embeddings using Sentence Transformers (all-MiniLM-L6-v2)  
-- Built a vector database using Chroma for semantic search  
-- Integrated Google Gemini (gemini-1.5-flash) via LangChain  
-- Designed structured prompts for controlled contextual responses  
-- Implemented similarity-based retrieval for context injection  
-- Evaluated system performance using BERTScore and RAG Evaluator  
-- Instrumented and monitored the pipeline with Phoenix
-  
----
+- Built PDF ingestion and chunking pipeline  
+- Generated embeddings with Sentence Transformers  
+- Implemented semantic search using Chroma  
+- Integrated Gemini via LangChain  
+- Evaluated performance using BERTScore and RAG metrics  
 
-### 🔬 StArt – Systematic Review Tool (Undergraduate Research Project)  
+### 🔬 StArt – Systematic Review Tool (Research Contribution)  
 🔗 https://github.com/pet-ads/systematic-front  
 
-Research project developed to support systematic literature reviews.
+Frontend contribution in an undergraduate research project supporting systematic literature reviews.
 
-As part of my undergraduate research involvement, I contributed to the frontend development of the system.
-
-### My Contributions
-- Consumed and structured API data for dynamic visualization  
-- Developed interactive charts and dynamic tables  
-- Improved usability and frontend component organization  
-- Built features using React and TypeScript  
+- API data integration  
+- Interactive charts and tables  
+- React + TypeScript feature development  
