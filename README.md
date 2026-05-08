@@ -23,7 +23,8 @@ Currently working as a Full Stack Intern.
 
 ## 🧠 Technical Skills
 ### Backend
-- Java  
+- Java
+- Spring Boot
 - C# (ASP.NET MVC)
 ### Web
 - React  
